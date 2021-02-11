@@ -1,0 +1,39 @@
+
+svg {
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    overflow: visible;
+    --shadow: rgba($yellow, .5);
+    --outline: rgba(#fff, .4);
+}
+.class1 {
+    animation: wiggle-anim 7s alternate-reverse infinite linear;
+}
+.screens1{
+
+}
+.screens2{
+}
+
+.screens3{
+}
+.head {
+    /* animation: three 2s infinite;
+    animation-direction: alternate; */
+}
+.filament{
+    fill: #ffcc00;
+    animation: flicker 4s linear;
+}
+
+@keyframes flicker {
+	19.999%, 22%, 62.999%, 64%, 64.999%, 70%, 100% {
+        fill: #ffcc00;
+		opacity: .99;
+	}
+	0%,20%, 21.999%, 63%, 63.999%, 65%, 69.999% {
+        fill: #2e2d2a;
+		opacity: 0.4;
+	}
+}
