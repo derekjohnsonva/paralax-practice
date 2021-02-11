@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/paralax-practice/static/css/main.0328f8f2.chunk.css",
+    "main.js": "/paralax-practice/static/js/main.74425d41.chunk.js",
+    "main.js.map": "/paralax-practice/static/js/main.74425d41.chunk.js.map",
+    "runtime-main.js": "/paralax-practice/static/js/runtime-main.f07e7cb6.js",
+    "runtime-main.js.map": "/paralax-practice/static/js/runtime-main.f07e7cb6.js.map",
+    "static/js/2.a037ae72.chunk.js": "/paralax-practice/static/js/2.a037ae72.chunk.js",
+    "static/js/2.a037ae72.chunk.js.map": "/paralax-practice/static/js/2.a037ae72.chunk.js.map",
+    "static/js/3.97b71358.chunk.js": "/paralax-practice/static/js/3.97b71358.chunk.js",
+    "static/js/3.97b71358.chunk.js.map": "/paralax-practice/static/js/3.97b71358.chunk.js.map",
+    "index.html": "/paralax-practice/index.html",
+    "static/css/main.0328f8f2.chunk.css.map": "/paralax-practice/static/css/main.0328f8f2.chunk.css.map",
+    "static/js/2.a037ae72.chunk.js.LICENSE.txt": "/paralax-practice/static/js/2.a037ae72.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f07e7cb6.js",
+    "static/js/2.a037ae72.chunk.js",
+    "static/css/main.0328f8f2.chunk.css",
+    "static/js/main.74425d41.chunk.js"
+  ]
+}
