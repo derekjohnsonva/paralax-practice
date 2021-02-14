@@ -7,11 +7,9 @@ svg {
     --shadow: rgba($yellow, .5);
     --outline: rgba(#fff, .4);
 }
-.class1 {
-    animation: wiggle-anim 7s alternate-reverse infinite linear;
+.leaf{
 }
 .screens1{
-
 }
 .screens2{
 }
@@ -52,3 +50,27 @@ svg {
 		opacity: 0.4;
 	}
 }
+@keyframes sign-anim {
+    from {
+        transform: translateX(0)
+    }
+    to {
+        transform: translateX(-3px)
+    }
+}
+@keyframes sign-anim-2 {
+    from {
+        transform: translateX(0) translateY(0);
+    }
+    to {
+        transform: translateX(-1px) translateY(-1px)
+    }
+}
+@keyframes rustle {
+    90% {
+      transform: scale(1);
+    }
+    100% {
+      transform: scale(1.1);
+    }
+  }
